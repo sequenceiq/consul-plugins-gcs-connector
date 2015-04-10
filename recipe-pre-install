@@ -1,6 +1,6 @@
 #!/bin/bash
 
-: ${LOGFILE:=/tmp/plugn_gcs_connector.log}
+: ${LOGFILE:=/tmp/plugin_gcs_connector.log}
 : ${DEBUG:=1}
 
 main(){
