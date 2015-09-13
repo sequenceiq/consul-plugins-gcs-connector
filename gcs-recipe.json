@@ -2,7 +2,8 @@
   "name": "gcs-recipe",
   "description": "sets up Google Hadoop Connector for GCS",
   "properties": {
-      "recipes.gcp-p12.p12-encoded":"<copy-your-base64-encoded-p12-credential-file-here>"
+      "recipes.gcp-p12.p12-encoded":"2aded82a66bf950123e962a289351242b71de4a291c963e8dabf8a16c05968d91f03fb154bb91427d50b1212b540ce3432d42ea41e61d0ad69b28a3b0aaeabb83a8eefe273a986e76e091f1cf9bf735fb7115adcbc4935de9c68b37d7494e9bf3411472f
+cfbd91fa2f6254bdf322b1b6aca0f0291508bea67a6a3b9fa61f27d21849fdd1efda3f2c72c6e1613a6b7006108b4586144808aa3a4b82daa88f70a587b2191bee7d2251754aa3cb4f97b1bd777afcbc"
   },
   "plugins": { 
       "https://github.com/sequenceiq/consul-plugins-gcs-connector.git": "ALL_NODES",
